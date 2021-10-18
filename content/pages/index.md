@@ -3,6 +3,7 @@ title: Home
 sections:
   - type: ExampleSection
     logos: []
+    title: My title
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: >-
