@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: ExampleSection
-    logos: 
+    logos: []
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: >-
