@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - type: ExampleSection
+  - type: HeroSection
     logos: []
     title: My title
   - type: hero_section
